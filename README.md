@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://awadhootk6.io)
 
 <h1 align="center">Hi 👋, I'm Awadhoot Khutwad</h1>
-<h3 align="center">A passionate Flutter developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 </br>
 <div align="center">
   <image alt="Coding" width="771" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
@@ -13,9 +13,9 @@
 </div>
 
 <div align="center">
- 🌱 I’m currently learning **Flutter, MERN stack and exploring ML and NLP.**
+ 🌱 I’m currently learning **Flutter, MERN and exploring ML, NLP and Cloud.**
   </br>
- 💬 Ask me about **App Development.**
+ 💬 Ask me about **Backend Development, App Development and NLP.**
   </br>
  📫 How to reach me **awadhootk6@gmail.com**
 </div>
