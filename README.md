@@ -13,9 +13,9 @@
 </div>
 
 <div align="center">
- 🌱 I’m currently learning **Flutter, MERN and exploring ML, NLP and Cloud.**
+ 🌱 Skilled at **Flutter, MERN and exploring ML, NLP and Cloud & DevOps.**
   </br>
- 💬 Ask me about **Backend Development, App Development and NLP.**
+ 💬 Ask me about **Backend Development, Ckoud, App Development and NLP.**
   </br>
  📫 How to reach me **awadhootk6@gmail.com**
 </div>
